@@ -1,0 +1,5 @@
+# ecp
+---
+- curiosity
+- talent
+- strong
