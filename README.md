@@ -2,3 +2,4 @@
 ---
 - curiosity
 - talent
+- strong
